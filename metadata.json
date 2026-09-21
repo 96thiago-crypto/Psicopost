@@ -1,0 +1,8 @@
+{
+  "name": "Studio Psicopost Pro - Gerador de Posts para Psicólogo",
+  "description": "Plataforma de design e geração de posts e carrosséis para Instagram voltada para psicólogos com IA Gemini, TCC, ACP, Psicanálise e Gestalt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
